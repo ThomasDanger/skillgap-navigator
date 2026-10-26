@@ -1,0 +1,18 @@
+{
+  "inputRows": 60628,
+  "outputRows": 60628,
+  "rejected": [],
+  "duplicateKeys": 0,
+  "geographicAreas": 96,
+  "skills": 36,
+  "byYear": {
+    "2020": 8911,
+    "2021": 11210,
+    "2022": 10218,
+    "2023": 14275,
+    "2024": 13859,
+    "2025": 2155
+  },
+  "defaultFilterRows": 5304,
+  "missingSkillLabels": []
+}

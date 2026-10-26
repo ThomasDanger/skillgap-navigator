@@ -1,0 +1,600 @@
+{
+  "countries": [
+    {
+      "code": "008",
+      "name": "Albania"
+    },
+    {
+      "code": "040",
+      "name": "Austria"
+    },
+    {
+      "code": "031",
+      "name": "Azerbaijan"
+    },
+    {
+      "code": "048",
+      "name": "Bahrain"
+    },
+    {
+      "code": "050",
+      "name": "Bangladesh"
+    },
+    {
+      "code": "112",
+      "name": "Belarus"
+    },
+    {
+      "code": "056",
+      "name": "Belgium"
+    },
+    {
+      "code": "064",
+      "name": "Bhutan"
+    },
+    {
+      "code": "070",
+      "name": "Bosnia and Herzegovina"
+    },
+    {
+      "code": "072",
+      "name": "Botswana"
+    },
+    {
+      "code": "076",
+      "name": "Brazil"
+    },
+    {
+      "code": "096",
+      "name": "Brunei Darussalam"
+    },
+    {
+      "code": "100",
+      "name": "Bulgaria"
+    },
+    {
+      "code": "108",
+      "name": "Burundi"
+    },
+    {
+      "code": "124",
+      "name": "Canada"
+    },
+    {
+      "code": "152",
+      "name": "Chile"
+    },
+    {
+      "code": "156",
+      "name": "China"
+    },
+    {
+      "code": "344",
+      "name": "China, Hong Kong Special Administrative Region"
+    },
+    {
+      "code": "446",
+      "name": "China, Macao Special Administrative Region"
+    },
+    {
+      "code": "170",
+      "name": "Colombia"
+    },
+    {
+      "code": "188",
+      "name": "Costa Rica"
+    },
+    {
+      "code": "191",
+      "name": "Croatia"
+    },
+    {
+      "code": "192",
+      "name": "Cuba"
+    },
+    {
+      "code": "196",
+      "name": "Cyprus"
+    },
+    {
+      "code": "203",
+      "name": "Czechia"
+    },
+    {
+      "code": "384",
+      "name": "Côte d'Ivoire"
+    },
+    {
+      "code": "208",
+      "name": "Denmark"
+    },
+    {
+      "code": "214",
+      "name": "Dominican Republic"
+    },
+    {
+      "code": "218",
+      "name": "Ecuador"
+    },
+    {
+      "code": "818",
+      "name": "Egypt"
+    },
+    {
+      "code": "222",
+      "name": "El Salvador"
+    },
+    {
+      "code": "233",
+      "name": "Estonia"
+    },
+    {
+      "code": "246",
+      "name": "Finland"
+    },
+    {
+      "code": "250",
+      "name": "France"
+    },
+    {
+      "code": "268",
+      "name": "Georgia"
+    },
+    {
+      "code": "276",
+      "name": "Germany"
+    },
+    {
+      "code": "300",
+      "name": "Greece"
+    },
+    {
+      "code": "348",
+      "name": "Hungary"
+    },
+    {
+      "code": "352",
+      "name": "Iceland"
+    },
+    {
+      "code": "356",
+      "name": "India"
+    },
+    {
+      "code": "360",
+      "name": "Indonesia"
+    },
+    {
+      "code": "364",
+      "name": "Iran (Islamic Republic of)"
+    },
+    {
+      "code": "368",
+      "name": "Iraq"
+    },
+    {
+      "code": "372",
+      "name": "Ireland"
+    },
+    {
+      "code": "376",
+      "name": "Israel"
+    },
+    {
+      "code": "380",
+      "name": "Italy"
+    },
+    {
+      "code": "388",
+      "name": "Jamaica"
+    },
+    {
+      "code": "392",
+      "name": "Japan"
+    },
+    {
+      "code": "400",
+      "name": "Jordan"
+    },
+    {
+      "code": "398",
+      "name": "Kazakhstan"
+    },
+    {
+      "code": "414",
+      "name": "Kuwait"
+    },
+    {
+      "code": "428",
+      "name": "Latvia"
+    },
+    {
+      "code": "440",
+      "name": "Lithuania"
+    },
+    {
+      "code": "442",
+      "name": "Luxembourg"
+    },
+    {
+      "code": "454",
+      "name": "Malawi"
+    },
+    {
+      "code": "458",
+      "name": "Malaysia"
+    },
+    {
+      "code": "470",
+      "name": "Malta"
+    },
+    {
+      "code": "480",
+      "name": "Mauritius"
+    },
+    {
+      "code": "484",
+      "name": "Mexico"
+    },
+    {
+      "code": "496",
+      "name": "Mongolia"
+    },
+    {
+      "code": "499",
+      "name": "Montenegro"
+    },
+    {
+      "code": "504",
+      "name": "Morocco"
+    },
+    {
+      "code": "528",
+      "name": "Netherlands (Kingdom of the)"
+    },
+    {
+      "code": "562",
+      "name": "Niger"
+    },
+    {
+      "code": "578",
+      "name": "Norway"
+    },
+    {
+      "code": "512",
+      "name": "Oman"
+    },
+    {
+      "code": "158",
+      "name": "Other non-specified areas in Eastern Asia"
+    },
+    {
+      "code": "586",
+      "name": "Pakistan"
+    },
+    {
+      "code": "600",
+      "name": "Paraguay"
+    },
+    {
+      "code": "604",
+      "name": "Peru"
+    },
+    {
+      "code": "608",
+      "name": "Philippines"
+    },
+    {
+      "code": "616",
+      "name": "Poland"
+    },
+    {
+      "code": "620",
+      "name": "Portugal"
+    },
+    {
+      "code": "634",
+      "name": "Qatar"
+    },
+    {
+      "code": "410",
+      "name": "Republic of Korea"
+    },
+    {
+      "code": "642",
+      "name": "Romania"
+    },
+    {
+      "code": "643",
+      "name": "Russian Federation"
+    },
+    {
+      "code": "682",
+      "name": "Saudi Arabia"
+    },
+    {
+      "code": "688",
+      "name": "Serbia"
+    },
+    {
+      "code": "702",
+      "name": "Singapore"
+    },
+    {
+      "code": "703",
+      "name": "Slovakia"
+    },
+    {
+      "code": "705",
+      "name": "Slovenia"
+    },
+    {
+      "code": "724",
+      "name": "Spain"
+    },
+    {
+      "code": "275",
+      "name": "State of Palestine"
+    },
+    {
+      "code": "752",
+      "name": "Sweden"
+    },
+    {
+      "code": "756",
+      "name": "Switzerland"
+    },
+    {
+      "code": "764",
+      "name": "Thailand"
+    },
+    {
+      "code": "792",
+      "name": "Türkiye"
+    },
+    {
+      "code": "800",
+      "name": "Uganda"
+    },
+    {
+      "code": "804",
+      "name": "Ukraine"
+    },
+    {
+      "code": "784",
+      "name": "United Arab Emirates"
+    },
+    {
+      "code": "826",
+      "name": "United Kingdom of Great Britain and Northern Ireland"
+    },
+    {
+      "code": "858",
+      "name": "Uruguay"
+    },
+    {
+      "code": "860",
+      "name": "Uzbekistan"
+    },
+    {
+      "code": "704",
+      "name": "Viet Nam"
+    },
+    {
+      "code": "716",
+      "name": "Zimbabwe"
+    }
+  ],
+  "skills": [
+    {
+      "code": "ARSP",
+      "label": "Using basic arithmetic formula in a spreadsheet"
+    },
+    {
+      "code": "COPA",
+      "label": "Using copy and paste tools to duplicate or move information within a document"
+    },
+    {
+      "code": "DLDONLD",
+      "label": "Reading or downloading on-line newspapers, magazines, or electronic books"
+    },
+    {
+      "code": "EMAIL",
+      "label": "Sending e-mails with attached files"
+    },
+    {
+      "code": "EPRS",
+      "label": "Creating electronic presentations with presentation software"
+    },
+    {
+      "code": "FONLCRS",
+      "label": "Doing a formal online course"
+    },
+    {
+      "code": "GSINF",
+      "label": "Getting information about goods or services online"
+    },
+    {
+      "code": "GSPUR",
+      "label": "Purchasing or ordering goods or services using the Internet"
+    },
+    {
+      "code": "HLTHINF",
+      "label": "Seeking health information (on injury, disease, nutrition, etc.)"
+    },
+    {
+      "code": "ICTABVBAS",
+      "label": "Above basic skills in 5 of 5 skill areas"
+    },
+    {
+      "code": "ICTBAS1",
+      "label": "At least basic skills in 0-1 of 5 skill areas"
+    },
+    {
+      "code": "ICTBAS2",
+      "label": "At least basic skills in 2 of 5 skill areas"
+    },
+    {
+      "code": "ICTBAS3",
+      "label": "At least basic skills in 3 of 5 skill areas"
+    },
+    {
+      "code": "ICTBAS4",
+      "label": "At least basic skills in 4 of 5 skill areas"
+    },
+    {
+      "code": "ICTBAS5",
+      "label": "At least basic skills in 5 of 5 skill areas"
+    },
+    {
+      "code": "ICTCOMMABAS",
+      "label": "ICT Skill: Above basic communication and collaboration skills"
+    },
+    {
+      "code": "ICTCOMMBAS",
+      "label": "ICT Skill: Basic communication and collaboration skills"
+    },
+    {
+      "code": "ICTCONTABAS",
+      "label": "ICT Skill: Above basic digital content creation skills"
+    },
+    {
+      "code": "ICTCONTBAS",
+      "label": "ICT Skill: Basic digital content creation skills"
+    },
+    {
+      "code": "ICTINFOABAS",
+      "label": "ICT Skill: Above basic information and data literacy skills"
+    },
+    {
+      "code": "ICTINFOBAS",
+      "label": "ICT Skill: Basic information and data literacy skills"
+    },
+    {
+      "code": "ICTPROBABAS",
+      "label": "ICT Skill: Above basic problem solving skills"
+    },
+    {
+      "code": "ICTPROBBAS",
+      "label": "ICT Skill: Basic problem solving skills"
+    },
+    {
+      "code": "ICTSAFEABAS",
+      "label": "ICT Skill: Above basic safety skills"
+    },
+    {
+      "code": "ICTSAFEBAS",
+      "label": "ICT Skill: Basic safety skills"
+    },
+    {
+      "code": "INST",
+      "label": "Connecting and installing new devices"
+    },
+    {
+      "code": "INTBNK",
+      "label": "Using Internet banking"
+    },
+    {
+      "code": "ONLCNS",
+      "label": "Taking part in on-line consultations or voting to define civic or political issues"
+    },
+    {
+      "code": "ONLSFT",
+      "label": "Using software run over the Internet for editing text documents, spreadsheets or presentations"
+    },
+    {
+      "code": "PCPR",
+      "label": "Writing a computer program using a specialized programming language"
+    },
+    {
+      "code": "PRVCY",
+      "label": "Changing privacy settings on your device, account or app to limit the sharing of personal data and information (e.g. name, contact information, photos)"
+    },
+    {
+      "code": "SCRTY",
+      "label": "Setting up effective security measures (e.g. strong passwords, log-in attempt notification) to protect devices and online accounts"
+    },
+    {
+      "code": "SNTWK",
+      "label": "Participating in social networks"
+    },
+    {
+      "code": "SOFT",
+      "label": "Finding, downloading, installing and configuring software"
+    },
+    {
+      "code": "VOIP",
+      "label": "Telephoning over the Internet/VoIP"
+    },
+    {
+      "code": "VRFY",
+      "label": "Verifying the reliability of information found online"
+    }
+  ],
+  "dimensions": {
+    "Age": {
+      "<15Y": "under 15 years old",
+      "15-24": "15 to 24 years old",
+      "25-74": "25 to 74 years old",
+      "75+": "75 years old and over",
+      "ALLAGE": "All age ranges or no breaks by age"
+    },
+    "Location": {
+      "ALLAREA": "All areas",
+      "RURAL": "Rural",
+      "URBAN": "Urban"
+    },
+    "Nature": {
+      "C": "Country data"
+    },
+    "Reporting Type": {
+      "G": "Global"
+    },
+    "Sex": {
+      "BOTHSEX": "Both sexes",
+      "FEMALE": "Female",
+      "MALE": "Male"
+    },
+    "Type of skill": {
+      "ARSP": "Using basic arithmetic formula in a spreadsheet",
+      "COPA": "Using copy and paste tools to duplicate or move information within a document",
+      "DLDONLD": "Reading or downloading on-line newspapers, magazines, or electronic books",
+      "EMAIL": "Sending e-mails with attached files",
+      "EPRS": "Creating electronic presentations with presentation software",
+      "FONLCRS": "Doing a formal online course",
+      "GSINF": "Getting information about goods or services online",
+      "GSPUR": "Purchasing or ordering goods or services using the Internet",
+      "HLTHINF": "Seeking health information (on injury, disease, nutrition, etc.)",
+      "ICTABVBAS": "Above basic skills in 5 of 5 skill areas",
+      "ICTBAS1": "At least basic skills in 0-1 of 5 skill areas",
+      "ICTBAS2": "At least basic skills in 2 of 5 skill areas",
+      "ICTBAS3": "At least basic skills in 3 of 5 skill areas",
+      "ICTBAS4": "At least basic skills in 4 of 5 skill areas",
+      "ICTBAS5": "At least basic skills in 5 of 5 skill areas",
+      "ICTCOMMABAS": "ICT Skill: Above basic communication and collaboration skills",
+      "ICTCOMMBAS": "ICT Skill: Basic communication and collaboration skills",
+      "ICTCONTABAS": "ICT Skill: Above basic digital content creation skills",
+      "ICTCONTBAS": "ICT Skill: Basic digital content creation skills",
+      "ICTINFOABAS": "ICT Skill: Above basic information and data literacy skills",
+      "ICTINFOBAS": "ICT Skill: Basic information and data literacy skills",
+      "ICTPROBABAS": "ICT Skill: Above basic problem solving skills",
+      "ICTPROBBAS": "ICT Skill: Basic problem solving skills",
+      "ICTSAFEABAS": "ICT Skill: Above basic safety skills",
+      "ICTSAFEBAS": "ICT Skill: Basic safety skills",
+      "INST": "Connecting and installing new devices",
+      "INTBNK": "Using Internet banking",
+      "ONLCNS": "Taking part in on-line consultations or voting to define civic or political issues",
+      "ONLSFT": "Using software run over the Internet for editing text documents, spreadsheets or presentations",
+      "PCPR": "Writing a computer program using a specialized programming language",
+      "PRVCY": "Changing privacy settings on your device, account or app to limit the sharing of personal data and information (e.g. name, contact information, photos)",
+      "SCRTY": "Setting up effective security measures (e.g. strong passwords, log-in attempt notification) to protect devices and online accounts",
+      "SNTWK": "Participating in social networks",
+      "SOFT": "Finding, downloading, installing and configuring software",
+      "VOIP": "Telephoning over the Internet/VoIP",
+      "VRFY": "Verifying the reliability of information found online"
+    },
+    "Units": {
+      "PERCENT": "Percentage"
+    }
+  }
+}
